@@ -3,7 +3,6 @@
 <head><head>
     <body>
       <a href="http://localhost/test/logout.php"><button type="button"> logout</button></a>
-	  <h1>welcome</h1>
     <table>
        <thead>
         <tr>
